@@ -2,7 +2,7 @@
   "appId": "myappID",
   "masterKey": "myMasterKey",
   "appName": "oneByTwo",
-  "databaseURI": "mongodb+srv://mongodb:gvmCAESQV3PAJmES@cluster0.mdnuv.mongodb.net/test/?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=true/parseDB",
+  "databaseURI": "mongodb+srv://mongodb:<gvmCAESQV3PAJmES>@cluster0.mdnuv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "liveQuery": {
     "classNames": ["Message"]
   },
